@@ -1,0 +1,12 @@
+# Firebase access
+firebase:
+  apiKey: "ABCaSyB8FDE1AiWwt7FGVx4TGKLT6WXGXMOCykk"
+  authDomain: "uniqid.firebaseapp.com"
+  databaseURL: "https://uniqid.firebaseio.com"
+  projectId: "uniqid"
+  storageBucket: "uniqid.appspot.com"
+  messagingSenderId: "51284013183"
+  # Firebase account
+  credentials:
+    email : "firebase@example.com"
+    password : "password"

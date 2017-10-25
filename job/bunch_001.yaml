@@ -1,0 +1,39 @@
+# Tasks list
+tasks:
+  - plateforme: "facebook"
+    arguments:
+      page_id : "apple"
+      component : "fans_count"      
+      delay : 900
+      loop: 1
+  - plateforme: "facebook"
+    arguments:
+      page_id : "microsoft"
+      component : "fans_count"      
+      delay : 900
+      loop: 1
+  - plateforme: "facebook"
+    arguments:
+      page_id : "dell"
+      component : "fans_count"      
+      delay : 900
+      loop: 1
+  - plateforme: "facebook"
+    arguments:
+      page_id : "orangina" 
+      component : "fans_count"      
+      delay : 900
+      loop: 1
+  - plateforme: "facebook"
+    arguments:
+      page_id : "drpepper" 
+      component : "fans_count"      
+      delay : 900
+      loop: 1
+  - plateforme: "facebook"
+    arguments:
+      page_id : "mountaindew" 
+      component : "fans_count"
+      delay : 900
+      loop: 1
+ 

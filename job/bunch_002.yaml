@@ -1,0 +1,15 @@
+# Tasks list
+tasks:
+  - plateforme: "facebook"
+    arguments:
+      page_id : "facebook"
+      component : "fans_count"      
+      delay : 5
+      loop: 1
+  - plateforme: "facebook"
+    arguments:
+      page_id : "facebook"
+      component : "visitors_count"      
+      delay : 5
+      loop: 1      
+ 
